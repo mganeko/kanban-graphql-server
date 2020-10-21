@@ -1,6 +1,6 @@
 # kanban-graphql-server
 
-[kanban-go-nuxt-graphql](https://github.com/MrFuku/kanban-go-nuxt-graphql)をフォークして上で、GraphQL Server部分を独立したものです。利用にはフロント側のアプリが必要です。
+[kanban-go-nuxt-graphql](https://github.com/MrFuku/kanban-go-nuxt-graphql)をフォークした上で、GraphQL Server部分を独立したものです。利用にはフロント側のアプリが必要です。
 
 ## 完成イメージ
 
